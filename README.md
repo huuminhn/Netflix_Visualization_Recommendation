@@ -20,7 +20,7 @@
  the production rate increase sharply after 2015, from under 10 movies a year to over 120 movies a year, and from 5 TV shows a year to more than 40 TV shows a year.  
  
 -  **Visualize the correlation between 5 top countries and time:**  
-   <img src="year_country_top_5.png?raw=true"/>
+   <img src="year_country_top_5.png?raw=true"/>  
   Observing the TV shows and Movies production rate from the chart, it can be seen that America takes the lead in number of shows produced in any time. Similar to the above graph, the production rate increased sharply after 2015, especially for the United States. This can be a result of the blooming technology in film making, such as CGI, 3D Printing, Deep Cencor, etc.. Other countries also experience a noticeable increase in their production rate, but not as significant as America. Personally, I believe that due to the cutting edge technology of the film studios, they were capable of release extraodinary movies that attract the majoriy of audience, hence making other countries able to increase their movies production rate to serve such market demand.  
   
 -   **Visualize the distribution of movie ratings among the audience:**
