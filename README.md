@@ -10,8 +10,7 @@
  <img src="Country.png?raw=true"/>
  It can be seen that the majority of the Movies and TV shows are produced by America with nearly 3,500 products, following by 
  India, UK, Canada and France. The top 5 countries made approximately 75% of the overall movies and shows of the whole world. Thereby, 
- we will be focusing our further visualization on the top 5 countries.   
- 
+ we will be focusing our further visualization on the top 5 countries.  
 -  Visualize the release date of TV shows and movies on Netflix for the top 20 countries:  
    <img src="TV_Show_and_Movies.png?raw=true"/> 
 -  Visualize the correlation between 5 top countries and time:  
