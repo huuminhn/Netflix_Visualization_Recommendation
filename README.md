@@ -36,7 +36,7 @@
 ### Content-based Recommendation System:  
 
 For the recommendation system, I used Content-based approach as it would be helpful in determining correlation between movies. In order to test the recommendation system, I will use one of my most favourite movie as an example, "3 idiots":  
-<img src="3_idiots.png?raw=true"/> 
+<img src="3_idiots.png?raw=true"/>   
 As a result, the recommended movies are all from Bollywood, and some of them have the same main actor as the one in "3 idiots", Aamir Khan. Seemingly the recommendation system works well on the scale of similarity between the movies based on actors, genres and country origins.  
 
 P/S: "3 idiots" is a greate movie, I highly recommended it. But please prepare some napkins before watching, as it will leave you in tears =) 
