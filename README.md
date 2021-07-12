@@ -1,5 +1,5 @@
 ## Netflix_Visualization_Recommendation
-*A story-telling projects using visualization and a content-based recommendation system*   
+*A story-telling projects using visualization and  content-based recommendation system*   
 
 ---
 
